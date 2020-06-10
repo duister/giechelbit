@@ -1,6 +1,8 @@
 #CYBERSEC GENERAL
 
 <li><a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material">LEARN: ENISA training materials.</a></li>
+<li><a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/training-courses">LEARN: ENISA Training Courses.</a></li>
+<br>
 
 #Microsoft
 
