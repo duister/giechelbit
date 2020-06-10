@@ -3,38 +3,64 @@
 
 #OKT 2019
 <li><a href="https://www.theverge.com/2019/10/2/20892854/google-password-checkup-hack-detection-now-available">The Verge: Google is making it easier to check if your passwords have been compromised in a data breach.</a></li>
+<br>
 
+#JAN 2020
 <li><a href="https://www.hln.be/in-de-buurt/ieper/picanol-zwaar-getroffen-door-cyberaanval-hackers-vragen-losgeld">[01/2020 * TRENDS] HLN, Picanol zwaar getroffen door cyberaanval, hackers vragen losgeld.</a></li>
-		<li><a href="https://www.weforum.org/agenda/2020/01/these-will-be-the-main-cybersecurity-trends-in-2020/">[01/2020 * TRENDS] WEFORUM, These will be the main cybersecurity trends in 2020.</a></li>
-		<li><a href="https://www.vrt.be/vrtnws/nl/2020/01/07/groot-veiligheidslek-in-tiktok-sociale-media-en-vooral-tiktok/">[01/2020 * VULN] VRT - Groot veiligheidslek in populaire video-app TikTok.</a><li>
-		<li><a href="https://research.checkpoint.com/2020/tik-or-tok-is-tiktok-secure-enough/">[01/2020 * VULN] Check Point Research, Tik or Tok? Is TikTok secure enough?</a></li>
-		<li><a href="https://www.tagesschau.de/investigativ/br-recherche/bmw-hacker-101.html">[12/2019 * HACK] Tagesschau, BMW von Hackern ausgespäht.</a></li>
-		<li><a href="https://radio1.be/we-zijn-onze-privacy-helemaal-nog-niet-kwijt">[11/2019 * PRIVACY] Radio1, Matthias Dobbelaere-Welvaert, "we zijn onze privacy helemaal nog niet kwijt.</a></li>
-		<li><a href="https://tweakers.net/nieuws/159406/minister-grapperhaus-van-justitie-wil-achterdeur-in-versleutelde-chat-apps.html">[11/2019 * CRYPTO] Tweakers, Minister Grapperhaus van Justitie wil achterdeur in versleutelde chat-apps.</a></li>
-		<li><a href="https://www.engadget.com/2019/10/18/us-military-nuclear-missiles-floppy-disks">[10/2019 * FLOPPY] Engadget, US Military will no longer use floppy disks to coordindate nuke launches.</a></li>
-		<li><a href="https://www.nu.nl/tech/5999669/vpn-netwerk-luchtverkeersleiding-en-overheid-was-toegankelijk-door-lek.amp">[09/2019 * VPN] NU.NL, VPN-network luchtverkeersleiding en overheid was toegankelijk door lek.</a></li>
-		<li><a href="https://www.bloomberg.com/news/articles/2019-09-28/facebook-whatsapp-will-have-to-share-messages-with-u-k-police">[09/2019 * CRYPTO] Bloomberg: Facebook, WhatsApp will have to share messages with U.K.</a></li>
-		<li><a href="https://tweakers.net/nieuws/157048/gegevens-patienten-haga-ziekenhuis-werden-gebruikt-als-boodschappenlijstje.html?nb=2019-09-08&u=0800">[09/2019 * GDPR] Tweakers: gegevens patiënten Haga Ziekenhuis werden gebruikt als boodschappenlijstje.</a></li>
-		<li><a href="https://www.vpnmentor.com/blog/report-biostar2-leak/">[08/2019 * BIOSTAR] VpnMentor: Report: data breach in biometric security platform affecting millions of users.</a></li>
-		<li><a href="https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html">[08/2019 * IOS] Project Zero, a very deep dive into iOS Exploit Chains found in the wild.</a></li>
-		<li><a href="https://www.wired.com/story/ios-attack-watering-hole-project-zero/">[08/2019 * IOS] Wired, Mysterious iOS Attack Changes Everything We Know About iPhone Hacking".</a></li>
-		<li><a href="https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/">[08/2019 * CRYPTO] ZDNet, Employees connect nuclear plant to the Internet so they can mine cryptocurrency.</a></li>
-		<li><a href="https://www.wired.com/story/nuclear-plant-cryptomining-bec-scam-xbox-security-roundup/">[08/2019 * CRYPTO] Wired, Security News this week: cryptocurrency miners expose nuclear plant to Internet.</a></li>
-		<li><a href="https://www.infosecurity-magazine.com/news/certificate-giant-slams-plan-short/">[08/2019 * PKI] InfoSecurity Mag, Certificate Giant Slams Plan to Shorten HTTPS Lifespans.</a></li>
-		<li><a href="https://www.zdnet.com/article/google-wants-to-reduce-lifespan-for-https-certificates-to-one-year/">[08/2019 * PKI] ZDNet, Google wants to reduce lifespan for HTTPS certificates to one year.</a></li>
-		<li><a href="https://www.vrt.be/vrtnws/nl/2019/08/13/valse-verkeersinfo-hacking/">[08/2019 * RADIO] VRT, "Luchtaanval op E40": hoe kunnen "hackers" valse verkeersinformatie naar het dashboard van uw auto sturen?".</a></li>
-		<li><a href="https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/">[07/2019 * PRIVACY] Forbes, the encryption debate is over - dead at the hands of facebook.</a></li>
-		<li><a href="https://www.theregister.co.uk/2019/07/19/on_call/">[07/2019 * OPS] The Register, Operation Desert Sh!tstorm: routine test shoots down military's top-secret internets.</a></li>
-		<li><a href="https://www.theregister.co.uk/2019/07/19/2015_database_hack_slack/">[07/2019 * SLACK] The Register, 2015 database hack is the terrible gift that keeps giving for Slack.</a></li>
-		<li><a href="https://edition.cnn.com/2019/07/17/tech/faceapp-privacy-concerns/index.html">[07/2019 * CNN] FaceApp's viral success proves we will never take our digital privacy seriously.</a></li>	
-	<li><a href="https://www.theregister.co.uk/2019/07/16/iomega_nas_boxes/">[07/2019 * APIS] The Register, patch now before you get your NAS kicked: Iomega storage boxes leave millions of files open to the Internet.</a></li>
-		<li><a href="https://www.theregister.co.uk/2019/07/16/amadeus_bug_light_pass/">[07/2019 * IDOR] The Register, Amadeus! Amadeus! Pwn me Amadeus! Airline check-in bug may have exposed all y'all boarding passes to spies.</a></li>
-		<li><a href="https://www.theregister.co.uk/2019/07/18/microsoft_argues_for_memorysafe_languages_hints_at_move_from_c_to_rust/">[07/2019 * C++] The Register, Rust in Peace: memory bugs in C and C++ code cause security issues so Microsoft is considering alternatives once again.</a></li>
-		<li><a href="https://libra.org/en-US/white-paper/">[07/2019 * LIBRA] Libra, official Libra White Paper.</a></li>
-		<li><a href="https://www.wired.com/story/ambitious-plan-behind-facebooks-cryptocurrency-libra">[07/2019 * LIBRA] WIRED, The ambitious plan behind facebook's cryptocurrency, Libra.</a></li>
-		<li><a href="https://wetransfer.pr.co/178267-security-notice">[06/2019 * WETRANSFER] Wetransfer, update security notice.</a></li>
-		<li><a href="https://www.manrs.org/2019/06/large-european-routing-leak-sends-traffic-through-china-telecom/">[06/2019 * BGP] MANRS, large European routing leak sends traffic through China telecom.</a></li>
-		<li><a href="https://www.theregister.co.uk/2019/06/24/verizon_bgp_misconfiguration_cloudflare/">[06/2019 * BGP] The Register, BGP super-blunder: how Verizon today sparked a "cascading catastrophic failure" that knackered Cloudflare, Amazon, etc."</a></li>
+<li><a href="https://www.weforum.org/agenda/2020/01/these-will-be-the-main-cybersecurity-trends-in-2020/">[01/2020 * TRENDS] WEFORUM, These will be the main cybersecurity trends in 2020.</a></li>
+<li><a href="https://www.vrt.be/vrtnws/nl/2020/01/07/groot-veiligheidslek-in-tiktok-sociale-media-en-vooral-tiktok/">[01/2020 * VULN] VRT - Groot veiligheidslek in populaire video-app TikTok.</a><li>
+<li><a href="https://research.checkpoint.com/2020/tik-or-tok-is-tiktok-secure-enough/">[01/2020 * VULN] Check Point Research, Tik or Tok? Is TikTok secure enough?</a></li>
+<br>
+
+#DEC 2019
+<li><a href="https://www.tagesschau.de/investigativ/br-recherche/bmw-hacker-101.html">[12/2019 * HACK] Tagesschau, BMW von Hackern ausgespäht.</a></li>
+<li><a href="https://radio1.be/we-zijn-onze-privacy-helemaal-nog-niet-kwijt">[11/2019 * PRIVACY] Radio1, Matthias Dobbelaere-Welvaert, "we zijn onze privacy helemaal nog niet kwijt.</a></li>
+<li><a href="https://tweakers.net/nieuws/159406/minister-grapperhaus-van-justitie-wil-achterdeur-in-versleutelde-chat-apps.html">
+<br>
+	
+#NOV 2019
+[11/2019 * CRYPTO] Tweakers, Minister Grapperhaus van Justitie wil achterdeur in versleutelde chat-apps.</a></li>
+<br>
+
+#OCT 2019
+<li><a href="https://www.engadget.com/2019/10/18/us-military-nuclear-missiles-floppy-disks">[10/2019 * FLOPPY] Engadget, US Military will no longer use floppy disks to coordindate nuke launches.</a></li>
+<br>
+
+#SEPT 2019
+<li><a href="https://www.nu.nl/tech/5999669/vpn-netwerk-luchtverkeersleiding-en-overheid-was-toegankelijk-door-lek.amp">[09/2019 * VPN] NU.NL, VPN-network luchtverkeersleiding en overheid was toegankelijk door lek.</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2019-09-28/facebook-whatsapp-will-have-to-share-messages-with-u-k-police">[09/2019 * CRYPTO] Bloomberg: Facebook, WhatsApp will have to share messages with U.K.</a></li>
+<li><a href="https://tweakers.net/nieuws/157048/gegevens-patienten-haga-ziekenhuis-werden-gebruikt-als-boodschappenlijstje.html?nb=2019-09-08&u=0800">
+[09/2019 * GDPR] Tweakers: gegevens patiënten Haga Ziekenhuis werden gebruikt als boodschappenlijstje.</a></li>
+<br>
+
+#AUG 2019
+<li><a href="https://www.vpnmentor.com/blog/report-biostar2-leak/">[08/2019 * BIOSTAR] VpnMentor: Report: data breach in biometric security platform affecting millions of users.</a></li>
+<li><a href="https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html">[08/2019 * IOS] Project Zero, a very deep dive into iOS Exploit Chains found in the wild.</a></li>
+<li><a href="https://www.wired.com/story/ios-attack-watering-hole-project-zero/">[08/2019 * IOS] Wired, Mysterious iOS Attack Changes Everything We Know About iPhone Hacking".</a></li>
+<li><a href="https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/">[08/2019 * CRYPTO] ZDNet, Employees connect nuclear plant to the Internet so they can mine cryptocurrency.</a></li>
+<li><a href="https://www.wired.com/story/nuclear-plant-cryptomining-bec-scam-xbox-security-roundup/">[08/2019 * CRYPTO] Wired, Security News this week: cryptocurrency miners expose nuclear plant to Internet.</a></li>
+<li><a href="https://www.infosecurity-magazine.com/news/certificate-giant-slams-plan-short/">[08/2019 * PKI] InfoSecurity Mag, Certificate Giant Slams Plan to Shorten HTTPS Lifespans.</a></li>
+<li><a href="https://www.zdnet.com/article/google-wants-to-reduce-lifespan-for-https-certificates-to-one-year/">[08/2019 * PKI] ZDNet, Google wants to reduce lifespan for HTTPS certificates to one year.</a></li>
+<li><a href="https://www.vrt.be/vrtnws/nl/2019/08/13/valse-verkeersinfo-hacking/">[08/2019 * RADIO] VRT, "Luchtaanval op E40": hoe kunnen "hackers" valse verkeersinformatie naar het dashboard van uw auto sturen?".</a></li>
+<br>
+
+#JULY 2019
+<li><a href="https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/">[07/2019 * PRIVACY] Forbes, the encryption debate is over - dead at the hands of facebook.</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/19/on_call/">[07/2019 * OPS] The Register, Operation Desert Sh!tstorm: routine test shoots down military's top-secret internets.</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/19/2015_database_hack_slack/">[07/2019 * SLACK] The Register, 2015 database hack is the terrible gift that keeps giving for Slack.</a></li>
+<li><a href="https://edition.cnn.com/2019/07/17/tech/faceapp-privacy-concerns/index.html">[07/2019 * CNN] FaceApp's viral success proves we will never take our digital privacy seriously.</a></li>	
+<li><a href="https://www.theregister.co.uk/2019/07/16/iomega_nas_boxes/">[07/2019 * APIS] The Register, patch now before you get your NAS kicked: Iomega storage boxes leave millions of files open to the Internet.</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/16/amadeus_bug_light_pass/">[07/2019 * IDOR] The Register, Amadeus! Amadeus! Pwn me Amadeus! Airline check-in bug may have exposed all y'all boarding passes to spies.</a></li>
+<li><a href="https://www.theregister.co.uk/2019/07/18/microsoft_argues_for_memorysafe_languages_hints_at_move_from_c_to_rust/">[07/2019 * C++] The Register, Rust in Peace: memory bugs in C and C++ code cause security issues so Microsoft is considering alternatives once again.</a></li>
+<li><a href="https://libra.org/en-US/white-paper/">[07/2019 * LIBRA] Libra, official Libra White Paper.</a></li>
+<li><a href="https://www.wired.com/story/ambitious-plan-behind-facebooks-cryptocurrency-libra">[07/2019 * LIBRA] WIRED, The ambitious plan behind facebook's cryptocurrency, Libra.</a></li>
+<br>
+
+#JUN 2019
+<li><a href="https://wetransfer.pr.co/178267-security-notice">[06/2019 * WETRANSFER] Wetransfer, update security notice.</a></li>
+<li><a href="https://www.manrs.org/2019/06/large-european-routing-leak-sends-traffic-through-china-telecom/">[06/2019 * BGP] MANRS, large European routing leak sends traffic through China telecom.</a></li>
+<li><a href="https://www.theregister.co.uk/2019/06/24/verizon_bgp_misconfiguration_cloudflare/">[06/2019 * BGP] The Register, BGP super-blunder: how Verizon today sparked a "cascading catastrophic failure" that knackered Cloudflare, Amazon, etc."</a></li>
+
 		<li><a href="https://nakedsecurity.sophos.com/2019/06/13/vim-devs-fix-system-pwning-text-editor-bug/">[06/2019 * VIM] Sophos, VIM devs fix system pwning text editor bug.</a></li>
 		<li><a href="https://medium.com/@magrabursofily/exploit-poc-linux-command-execution-on-vim-neovim-vulnerability-cve-2019-12735-4c770d5573cf">[06/2019 * VIM] Medium, Exploit PoC: Linux command execution on Vim/Neovim vulnerability (CVE-2019-12735).</a></li>
 		<li><a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">[06/2019 * BGP] Cloudflare, How Verizon and a BGP optimizer knocked large parts of the Internet Offline today.</a></li>
