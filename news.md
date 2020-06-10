@@ -1,8 +1,10 @@
 #JUN 2020
-<li><a href="https://www.techradar.com/best/password-manager">TechRadar: the best password manager in 2020.</a></li>
+<li><a href="https://tweakers.net/nieuws/168158/ibm-stopt-met-gezichtsherkenning-vanwege-mogelijk-gebruik-voor-massasurveillance.html">[06/2020 * BIO] Tweakers, IBM stopt met gezichtsherkenning vanwege mogelijk gebruik voor massasurveillance.</a></li>
+<li><a href="https://www.techradar.com/best/password-manager">[06/2020 * ENDUSER] TechRadar: the best password manager in 2020.</a></li>
+<br>
 
 #OKT 2019
-<li><a href="https://www.theverge.com/2019/10/2/20892854/google-password-checkup-hack-detection-now-available">The Verge: Google is making it easier to check if your passwords have been compromised in a data breach.</a></li>
+<li><a href="https://www.theverge.com/2019/10/2/20892854/google-password-checkup-hack-detection-now-available">[10/2019]The Verge: Google is making it easier to check if your passwords have been compromised in a data breach.</a></li>
 <br>
 
 #JAN 2020
