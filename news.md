@@ -8,7 +8,7 @@
 #JAN 2020
 <li><a href="https://www.hln.be/in-de-buurt/ieper/picanol-zwaar-getroffen-door-cyberaanval-hackers-vragen-losgeld">[01/2020 * TRENDS] HLN, Picanol zwaar getroffen door cyberaanval, hackers vragen losgeld.</a></li>
 <li><a href="https://www.weforum.org/agenda/2020/01/these-will-be-the-main-cybersecurity-trends-in-2020/">[01/2020 * TRENDS] WEFORUM, These will be the main cybersecurity trends in 2020.</a></li>
-<li><a href="https://www.vrt.be/vrtnws/nl/2020/01/07/groot-veiligheidslek-in-tiktok-sociale-media-en-vooral-tiktok/">[01/2020 * VULN] VRT - Groot veiligheidslek in populaire video-app TikTok.</a><li>
+<li><a href="https://www.vrt.be/vrtnws/nl/2020/01/07/groot-veiligheidslek-in-tiktok-sociale-media-en-vooral-tiktok/">[01/2020 * VULN] VRT, Groot veiligheidslek in populaire video-app TikTok.</a><li>
 <li><a href="https://research.checkpoint.com/2020/tik-or-tok-is-tiktok-secure-enough/">[01/2020 * VULN] Check Point Research, Tik or Tok? Is TikTok secure enough?</a></li>
 <br>
 
