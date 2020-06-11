@@ -1,4 +1,5 @@
 #JUN 2020
+<li><a href="https://tweakers.net/nieuws/168248/aantal-vriend-in-nood-fraudemeldingen-stijgt-sterk-door-coronacrisis.html">[06/2020 * PHISH] Tweakers, Aantal 'vriend in nood' fraudemeldingen stijgt sterk door corona crisis.</a></li>
 <li><a href="https://tweakers.net/nieuws/168158/ibm-stopt-met-gezichtsherkenning-vanwege-mogelijk-gebruik-voor-massasurveillance.html">[06/2020 * BIO] Tweakers, IBM stopt met gezichtsherkenning vanwege mogelijk gebruik voor massasurveillance.</a></li>
 <li><a href="https://www.techradar.com/best/password-manager">[06/2020 * ENDUSER] TechRadar: the best password manager in 2020.</a></li>
 <br>
