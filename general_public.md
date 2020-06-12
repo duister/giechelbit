@@ -14,3 +14,4 @@
 <li><a href="https://keepass.info/">KeePass Password Safe.</a></li>
 <li><a href="https://www.lastpass.com/">LastPass.</a></li>
 <li><a href="https://www.dashlane.com/">DashLane.</a></li>
+<li><a href="https://1password.com/">1Password.</a></li>
