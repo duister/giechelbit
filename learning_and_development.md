@@ -4,3 +4,4 @@
 
 <li><a href="https://youtu.be/Ml5LpaS16ng">[YOUTUBE] Why succession matters, learning agility by Korn Ferry Consulting.</a></li>
 <li><a href="https://www.youtube.com/watch?v=ORQz5FadIio">[YOUTUBE] Learning Agility, Dr. W. Warner Burke, professor of Psychology at the Columbia University.</a></li>
+<li><a href="https://www.youtube.com/watch?v=5MgBikgcWnY">[YOUTUBE] The first 20 hours, how to learn anything by Josh Kaufman, TEDxCSU.</a></li>
