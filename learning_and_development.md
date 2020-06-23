@@ -21,3 +21,8 @@
 
 <li><a href="https://www.youtube.com/watch?v=zI2vRwFKnHQ">[YOUTUBE] "Is radiation dangerous?" by Matt Anticole, TED-ED.</a></li>
 <br>
+
+#LEARNING AND DEVELOPMENT: REMAIN VIGILANT
+<br>
+
+<li><a href="https://www.youtube.com/watch?v=fUjSVrh9UN4">[YOUTUBE] "What is the Dark Web? by CNBC.</a></li>
