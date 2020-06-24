@@ -21,6 +21,7 @@
 <li><a href="https://www.youtube.com/watch?v=mwi4RRNygaM">[YOUTUBE] "Visit the Proximus Datacenter in Brussels" by Proximus.</a></li>
 <li><a href="https://www.youtube.com/watch?v=0MwMkBET_5I">[YOUTUBE] "How do fiber cables work" by Engineer Guy.</a></li>
 <li><a href="https://www.youtube.com/watch?v=eTBLIYJSzdc">[YOUTUBE] "How a few undersea cables connect the entire Internet" by MindRX.</a></li>
+<li><a href="https://www.youtube.com/watch?v=oo-hejIq3iQ">[YOUTUBE] "What is a VLAN" by NextGenT.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
