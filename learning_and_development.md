@@ -17,6 +17,7 @@
 <li><a href="https://www.youtube.com/watch?v=AEaKrq3SpW8">[YOUTUBE] "Crash Course to the Internet" by CrashCourse.</a></li>
 <li><a href="https://www.youtube.com/watch?v=3QhU9jd03a0&t">[YOUTUBE]"Crash Course to computer networks" by CrashCourse.</a></li>
 <li><a href="https://www.youtube.com/watch?v=kfvbCggY_nI">[YOUTUBE] "What is a Data Center?" by Anixter.</a></li>
+<li><a href="https://www.youtube.com/watch?v=XZmGGAbHqa0">[YOUTUBE] "Inside a Google data center" by Google.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
