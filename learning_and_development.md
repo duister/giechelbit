@@ -34,11 +34,18 @@
 <li><a href="https://www.youtube.com/watch?v=Z5Gi2Bpd82M">[YOUTUBE] "What is Software-Defined Network (SDN)" by IDG TECH Talk.</a></li>
 <li><a href="https://www.youtube.com/watch?v=XFXdWg1p5to">[YOUTUBE] "Software-defined networking explained (SDN)" by Vodafone Business UK.</li>
 <li><a href="https://www.youtube.com/watch?v=5I1v_sfBWVQ">[YOUTUBE] "Cisco Intent Based Data Center" by Cisco.</a></li>
-<br>
 <li><a href="https://www.youtube.com/watch?v=0qotVMX-J5s">[YOUTUBE] "Containerization Explained" by IBM Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=l75B6D9xyMQ">[YOUTUBE] "Fundamentals of Cisco Software-Defined Networking" (ACI) by Cisco.</a></li>
 <li><a href="https://www.youtube.com/watch?v=Nnh02NozVyg">[YOUTUBE] "Benefits of ACI" by Cisco. </a></li>
-<li><a href="https://www.youtube.com/watch?v=4ht22ReBjno">[YOUTUBE] "The illustrated Children's Guide to Kubernetes.
+<li><a href="https://www.youtube.com/watch?v=4ht22ReBjno">[YOUTUBE] "The illustrated Children's Guide to Kubernetes.</a></li>
+<br>
+
+#THE CLOUD: YOUR FLUFFY FRIEND.
+<br>
+<a href="https://www.youtube.com/watch?v=i9x0UO8MY0g">[YOUTUBE] "What is the "Cloud"" by CNBC explains.<a></li>
+<a href="https://www.youtube.com/watch?v=eZLcyTxi8ZI">[YOUTUBE] "What is the "Cloud"? An introduction to cloud computing with Microsoft Azure.</a></li>
+<a href="https://www.youtube.com/watch?v=KXkBZCe699A&t=">[YOUTUBE] "How does Microsoft Azure work?" by Microsoft Azure.</a></li>
+<a href="https://www.youtube.com/watch?v=XRdmfo4M_YA">[YOUTUBE] "IaaS explained" by IBM Cloud".<a></li>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
 <br>
