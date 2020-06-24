@@ -30,6 +30,7 @@
 <li><a href="https://www.youtube.com/watch?v=hDgG34IFGp4">[YOUTUBE] "What is Network Virtualization" by CBT Nuggets.</a></li>
 <li><a href="https://www.youtube.com/watch?v=jOewMqQlxo8">[YOUTUBE] "Why Hyperconverged Infrastructure is important" by VMWare.</a></li>
 <li><a href="https://www.youtube.com/watch?v=g8S3UT_vvUo">[YOUTUBE] "Introduction to VMware vSAN" by VMWare.</a></li>
+<li><a href="https://www.youtube.com/watch?v=xGZaZTnvR9A">[YOUTUBE] "Introduction Network Function Virtualization by CienaCorp.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
