@@ -14,6 +14,8 @@
 <br>
 
 <li><a href="https://www.youtube.com/watch?v=V6zJi8CU7Tk">[YOUTUBE] "IT Infrastructure: the very basic things any executive should know" by German Retana.</a></li>
+<li><a href="https://www.youtube.com/watch?v=AEaKrq3SpW8">[YOUTUBE] "Crash Course to the Internet" by CrashCourse.</a></li>
+<li><a href="https://www.youtube.com/watch?v=3QhU9jd03a0&t">[YOUTUBE]"Crash Course to computer networks" by CrashCourse.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
