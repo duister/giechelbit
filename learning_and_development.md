@@ -31,7 +31,11 @@
 <li><a href="https://www.youtube.com/watch?v=jOewMqQlxo8">[YOUTUBE] "Why Hyperconverged Infrastructure is important" by VMWare.</a></li>
 <li><a href="https://www.youtube.com/watch?v=g8S3UT_vvUo">[YOUTUBE] "Introduction to VMware vSAN" by VMWare.</a></li>
 <li><a href="https://www.youtube.com/watch?v=xGZaZTnvR9A">[YOUTUBE] "Introduction Network Function Virtualization by CienaCorp.</a></li>
+<li><a href="https://www.youtube.com/watch?v=Z5Gi2Bpd82M">[YOUTUBE] "What is Software-Defined Network (SDN)" by IDG TECH Talk.</a></li>
+<li><a href="https://www.youtube.com/watch?v=XFXdWg1p5to">[YOUTUBE] "Software-defined networking explained (SDN)" by Vodafone Business UK.</li>
+<li><a href="https://www.youtube.com/watch?v=5I1v_sfBWVQ">[YOUTUBE] "Cisco Intent Based Data Center" by Cisco.</a></li>
 <br>
+<li><a href="https://www.youtube.com/watch?v=0qotVMX-J5s">[YOUTUBE] "Containerization Explained" by IBM Cloud.</a></li>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
 <br>
