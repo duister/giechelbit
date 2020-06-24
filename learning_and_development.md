@@ -20,6 +20,7 @@
 <li><a href="https://www.youtube.com/watch?v=XZmGGAbHqa0">[YOUTUBE] "Inside a Google data center" by Google.</a></li>
 <li><a href="https://www.youtube.com/watch?v=mwi4RRNygaM">[YOUTUBE] "Visit the Proximus Datacenter in Brussels" by Proximus.</a></li>
 <li><a href="https://www.youtube.com/watch?v=0MwMkBET_5I">[YOUTUBE] "How do fiber cables work" by Engineer Guy.</a></li>
+<li><a href="https://www.youtube.com/watch?v=eTBLIYJSzdc">[YOUTUBE] "How a few undersea cables connect the entire Internet" by MindRX.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
