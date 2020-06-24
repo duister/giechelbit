@@ -37,7 +37,8 @@
 <br>
 <li><a href="https://www.youtube.com/watch?v=0qotVMX-J5s">[YOUTUBE] "Containerization Explained" by IBM Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=l75B6D9xyMQ">[YOUTUBE] "Fundamentals of Cisco Software-Defined Networking" (ACI) by Cisco.</a></li>
-<li><a href="https://www.youtube.com/watch?v=Nnh02NozVyg">[YOUTUBE] "Benefits of ACI" by Cisco </a></li>
+<li><a href="https://www.youtube.com/watch?v=Nnh02NozVyg">[YOUTUBE] "Benefits of ACI" by Cisco. </a></li>
+<li><a href="https://www.youtube.com/watch?v=4ht22ReBjno">[YOUTUBE] "The illustrated Children's Guide to Kubernetes.
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
 <br>
