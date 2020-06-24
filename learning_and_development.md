@@ -47,6 +47,8 @@
 <a href="https://www.youtube.com/watch?v=KXkBZCe699A&t=">[YOUTUBE] "How does Microsoft Azure work?" by Microsoft Azure.</a></li>
 <a href="https://www.youtube.com/watch?v=XRdmfo4M_YA">[YOUTUBE] "IaaS" explained" by IBM Cloud".<a></li>
 <a href="https://www.youtube.com/watch?v=QAbqJzd0PEE">[YOUTUBE] "PaaS" and "SaaS" explained" by IBM Cloud.</a></li>
+<a href="https://www.youtube.com/watch?v=o8NPllzkFhE">[YOUTUBE] "The mind behind Linux: Linux Torvalds by TED.</a></li>
+<a href="https://www.youtube.com/watch?v=Z-C11_xK_ZI">[YOUTUBE] "Linux introduction by OpenCanvas".</a></li>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
 <br>
