@@ -75,6 +75,7 @@
 <li><a href="https://www.youtube.com/watch?v=WSKi8HfcxEk">[YOUTUBE] "Rise of the machines - why automation is different this time" by Kurzgesagt.</a></li>
 <li><a href="https://www.youtube.com/watch?v=hb7Q33ysCwI">[YOUTUBE] "Coding is not difficult by Bill Gates, Karlie Kloss, Mark Zuckerberg and David Karp.</a></li>
 <li><a href="https://www.youtube.com/watch?v=jjqgP9dpD1k">[YOUTUBE] "CS50: Computational Thinking" by MIT Labs.</a></li>
+<li><a href="https://www.youtube.com/watch?v=QXjU9qTsYCc">[YOUTUBE] "How do computers read code?" by Frame of Essence.</a></li>
 <li><a href="https://www.youtube.com/watch?v=7YcW25PHnAA">[YOUTUBE] "REST API concepts and examples" by WebConcepts.</a></li>
 <li><a href="https://www.youtube.com/watch?v=9bu0cE4Nw4I">[YOUTUBE] "Do you know Proximus EnCo" by Proximus.</a></li>
 <br>
