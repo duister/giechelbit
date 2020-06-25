@@ -56,6 +56,7 @@
 <li><a href="https://www.youtube.com/watch?v=kp33ZprO0Ck">[YOUTUBE] "How a Microwave oven works" by the Engineer Guy.</a></li>
 <li><a href="https://www.youtube.com/watch?v=zI2vRwFKnHQ">[YOUTUBE] "Is radiation dangerous?" by Matt Anticole, TED-ED.</a></li>
 <li><a href="https://www.youtube.com/watch?v=R_RcytVWBrg">[YOUTUBE] "What is radiation? What is "ionizing" radiation by MITX.</a></li>
+<li><a href="https://www.youtube.com/watch?v=hePLDVbULZc">[YOUTUBE] "That's how WiFi works" by Bright Side.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
