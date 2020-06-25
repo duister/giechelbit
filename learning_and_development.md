@@ -48,6 +48,7 @@
 <li><a href="https://www.youtube.com/watch?v=QAbqJzd0PEE">[YOUTUBE] "PaaS" and "SaaS" explained" by IBM Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=o8NPllzkFhE">[YOUTUBE] "The mind behind Linux: Linux Torvalds by TED.</a></li>
 <li><a href="https://www.youtube.com/watch?v=Z-C11_xK_ZI">[YOUTUBE] "Linux introduction by OpenCanvas".</a></li>
+<br>
 
 #LEARNING AND DEVELOPMENT: RADIO ACTIVITY
 <br>
