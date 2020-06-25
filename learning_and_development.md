@@ -74,6 +74,7 @@
 <li><a href="https://www.youtube.com/watch?v=opdc8hQN0ew">[YOUTUBE] "Technology is replacing jobs. Are you ready?" by CNN Business.</a></li>
 <li><a href="https://www.youtube.com/watch?v=WSKi8HfcxEk">[YOUTUBE] "Rise of the machines - why automation is different this time" by Kurzgesagt.</a></li>
 <li><a href="https://www.youtube.com/watch?v=hb7Q33ysCwI">[YOUTUBE] "Coding is not difficult by Bill Gates, Karlie Kloss, Mark Zuckerberg and David Karp.</a></li>
+<li><a href="https://www.youtube.com/watch?v=jjqgP9dpD1k">[YOUTUBE] "CS50: Computational Thinking" by MIT Labs.</a></li>
 <li><a href="https://www.youtube.com/watch?v=7YcW25PHnAA">[YOUTUBE] "REST API concepts and examples" by WebConcepts.</a></li>
 <li><a href="https://www.youtube.com/watch?v=9bu0cE4Nw4I">[YOUTUBE] "Do you know Proximus EnCo" by Proximus.</a></li>
 <br>
@@ -81,3 +82,4 @@
 <br>
 
 <li><a href="https://www.youtube.com/watch?v=fUjSVrh9UN4">[YOUTUBE] "What is the Dark Web? by CNBC.</a></li>
+<li>
