@@ -83,5 +83,6 @@
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
 
+<li><a href="https://www.youtube.com/watch?v=kd33UVZhnAA">[YOUTUBE] "Google Data Center Security: 6 Layers Deep" by Google Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=fUjSVrh9UN4">[YOUTUBE] "What is the Dark Web? by CNBC.</a></li>
 <li>
