@@ -57,6 +57,7 @@
 <li><a href="https://www.youtube.com/watch?v=zI2vRwFKnHQ">[YOUTUBE] "Is radiation dangerous?" by Matt Anticole, TED-ED.</a></li>
 <li><a href="https://www.youtube.com/watch?v=R_RcytVWBrg">[YOUTUBE] "What is radiation? What is "ionizing" radiation by MITX.</a></li>
 <li><a href="https://www.youtube.com/watch?v=hePLDVbULZc">[YOUTUBE] "That's how WiFi works" by Bright Side.</a></li>
+<li><a href="https://www.youtube.com/watch?v=kxLcwIMYmr0">[YOUTUBE] "How wifi and cell phones work" by the Explained Channel.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
