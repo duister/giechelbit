@@ -58,6 +58,13 @@
 <li><a href="https://www.youtube.com/watch?v=R_RcytVWBrg">[YOUTUBE] "What is radiation? What is "ionizing" radiation by MITX.</a></li>
 <li><a href="https://www.youtube.com/watch?v=hePLDVbULZc">[YOUTUBE] "That's how WiFi works" by Bright Side.</a></li>
 <li><a href="https://www.youtube.com/watch?v=kxLcwIMYmr0">[YOUTUBE] "How wifi and cell phones work" by the Explained Channel.</a></li>
+<li><a href="https://youtu.be/QSIPNhOiMoE">[YOUTUBE] "How it works: Internet of Things (IoT)" by the IBM Think Academy.</a></li>
+<li><a href="https://www.youtube.com/watch?v=m6IvwcjcxQc">[YOUTUBE] "LoRa Alliance & LoRaWAN protocol" by the LoRa Alliance.</a></li>
+<li><a href="https://www.youtube.com/watch?v=-d2JxZuvTOI">[YOUTUBE] "What is LoRa - tutorial quickbits" by MickMake.</a></li>
+<li><a href="https://www.youtube.com/watch?v=2DG3pMcNNlw">[YOUTUBE] "What is 5G" by CNBC.</a></li>
+<li><a href="https://www.youtube.com/watch?v=GEx_d0SjvS0">[YOUTUBE] "Everything you need to know about 5G" by the IEEE Spectrum.</a></li>
+<li><a href="https://www.youtube.com/watch?v=DDvMkgEoHxQ">[YOUTUBE] "Edge Computing" by Goldman Sachs"</a></li>
+<li><a href="https://www.youtube.com/watch?v=RjMS15V_7nQ">[YOUTUBE] "Edge Computing Platform" by NTT Network Innovation Laboratories.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
