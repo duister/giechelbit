@@ -65,6 +65,7 @@
 <li><a href="https://www.youtube.com/watch?v=GEx_d0SjvS0">[YOUTUBE] "Everything you need to know about 5G" by the IEEE Spectrum.</a></li>
 <li><a href="https://www.youtube.com/watch?v=DDvMkgEoHxQ">[YOUTUBE] "Edge Computing" by Goldman Sachs"</a></li>
 <li><a href="https://www.youtube.com/watch?v=RjMS15V_7nQ">[YOUTUBE] "Edge Computing Platform" by NTT Network Innovation Laboratories.</a></li>
+<li><a href="https://www.youtube.com/watch?v=cEOUeItHDdo">[YOUTUBE] "What is Edge Computing" by IBM cloud.</a></li>
 <br>
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
