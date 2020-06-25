@@ -87,6 +87,7 @@
 <li><a href="https://www.youtube.com/watch?v=_I94-tJlovg">[YOUTUBE] "What is DevOps? In Simple English by Rackspace Technology.</a></li>
 <li><a href="https://www.youtube.com/watch?v=zWw2wuiKd5o">[YOUTUBE] "What is Infrastructure as Code?" by IBM cloud.</a></li>
 <br>
+<li><a href="https://www.youtube.com/watch?v=St__HLMZ8qQ">[YOUTUBE] "How Ansible works" by Red Hat videos.</a></li> 
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
