@@ -83,7 +83,11 @@
 <li><a href="https://www.youtube.com/watch?v=7YcW25PHnAA">[YOUTUBE] "REST API concepts and examples" by WebConcepts.</a></li>
 <li><a href="https://www.youtube.com/watch?v=9bu0cE4Nw4I">[YOUTUBE] "Do you know Proximus EnCo" by Proximus.</a></li>
 <li><a href="https://www.youtube.com/watch?v=j1gU2oGFayY">[YOUTUBE] "What are microservices really all about? by Java Brains.</a></li>
+<li><a href="https://www.youtube.com/watch?v=Z9QbYZh1YXY">[YOUTUBE] "What is Agile? What Agile is not by Mark Shead.</a></li>
+<li><a href="https://www.youtube.com/watch?v=_I94-tJlovg">[YOUTUBE] "What is DevOps? In Simple English by Rackspace Technology.</a></li>
+<li><a href="https://www.youtube.com/watch?v=zWw2wuiKd5o">[YOUTUBE] "What is Infrastructure as Code?" by IBM cloud.</a></li>
 <br>
+
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
 
