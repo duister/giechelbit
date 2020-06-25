@@ -68,6 +68,10 @@
 <li><a href="https://www.youtube.com/watch?v=cEOUeItHDdo">[YOUTUBE] "What is Edge Computing" by IBM cloud.</a></li>
 <br>
 
+#HELLO WORLD!
+<br>
+<li><a href="https://www.youtube.com/watch?v=7YcW25PHnAA">[YOUTUBE] "REST API concepts and examples" by WebConcepts.</a></li>
+<br>
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
 
