@@ -86,8 +86,8 @@
 <li><a href="https://www.youtube.com/watch?v=Z9QbYZh1YXY">[YOUTUBE] "What is Agile? What Agile is not by Mark Shead.</a></li>
 <li><a href="https://www.youtube.com/watch?v=_I94-tJlovg">[YOUTUBE] "What is DevOps? In Simple English by Rackspace Technology.</a></li>
 <li><a href="https://www.youtube.com/watch?v=zWw2wuiKd5o">[YOUTUBE] "What is Infrastructure as Code?" by IBM cloud.</a></li>
-<br>
 <li><a href="https://www.youtube.com/watch?v=St__HLMZ8qQ">[YOUTUBE] "How Ansible works" by Red Hat videos.</a></li> 
+<br>
 
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
