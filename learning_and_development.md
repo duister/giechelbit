@@ -112,5 +112,6 @@
 <li><a href="https://www.youtube.com/watch?v=Va07q3HFEZQ">[YOUTUBE] The Snowden files - the inside story of the world's most wanted man" by Luke Harding, TEDxAthens.</a></li>
 <li><a href="https://www.youtube.com/watch?v=z9Qi5mDSYb8">[YOUTUBE] "History and Evolution of Cryptgraphy and Cryptanalysis" by Riscure.</a></li>
 <li><a href="https://www.youtube.com/watch?v=zEhXkBsZtfg">[YOUTUBE] "What is "Public Key Infrastructure (PKI)" by BitExpert.</a></li>
+<li><a href="https://www.youtube.com/watch?v=_wQTRMBAvzg">[YOUTUBE] "What is a VPN and how does it work?" by VPNMentor.</a></li>
 <li><a href="https://www.youtube.com/watch?v=fUjSVrh9UN4">[YOUTUBE] "What is the Dark Web? by CNBC.</a></li>
 <li>
