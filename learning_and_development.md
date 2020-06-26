@@ -96,6 +96,8 @@
 <li><a href="https://www.youtube.com/watch?v=xC-c7E5PK0Y">[YOUTUBE] "What REALLY is Data Science, as told by a Data Scientist" by Joma Tech.</a></li>
 <li><a href="https://www.youtube.com/watch?v=T5pRlIbr6gg">[YOUTUBE] "Introduction - Learn Python for Data Science #1 by Siraj Raval.</a></li>
 <li><a href="https://www.youtube.com/watch?v=A1S4znIfcD8">[YOUTUBE] "What is machine learning by Weights & Biases.</a></li>
+<li><a href="https://www.youtube.com/watch?v=2ePf9rue1Ao">[YOUTUBE] "What is "Artificial Intelligence" in 5 minutes by Raj Ramesh.</a></li>
+<li><a href="https://www.youtube.com/watch?v=aR5N2Jl8k14">[YOUTUBE] "The incredible inventions of intuitive AI" by Maurice Conti.</a></li>
   
 <br>
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
