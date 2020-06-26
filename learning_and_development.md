@@ -103,6 +103,7 @@
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
 
+<li><a href="https://www.youtube.com/watch?v=ZmZ9fxxyCok">[YOUTUBE] "Cyber Security Awareness Training" by the Texas Municipal League Intergovernmental Risk Pool.</a></li>
 <li><a href="https://www.youtube.com/watch?v=kd33UVZhnAA">[YOUTUBE] "Google Data Center Security: 6 Layers Deep" by Google Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=ZENOIh4L54E">[YOUTUBE] "The future of cyber security" by the Financial Times.</a></li>
 <li><a href="https://www.youtube.com/watch?v=z9Qi5mDSYb8">[YOUTUBE] "History and Evolution of Cryptgraphy and Cryptanalysis" by Riscure.</a></li>
