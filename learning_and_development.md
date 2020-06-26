@@ -93,6 +93,9 @@
 <br>
 
 <li><a href="https://www.youtube.com/watch?v=C6WKt6fJiso">[YOUTUBE] "How Big Data can influence decisions that actually matter" by Prukalpa Sankar, TEDxGateway.</a></li> 
+<li><a href="https://www.youtube.com/watch?v=xC-c7E5PK0Y">[YOUTUBE] "What REALLY is Data Science, as told by a Data Scientist" by Joma Tech.</a></li>
+<li><a href="https://www.youtube.com/watch?v=T5pRlIbr6gg">[YOUTUBE] "Introduction - Learn Python for Data Science #1 by Siraj Raval.</a></li>
+<li><a href="https://www.youtube.com/watch?v=A1S4znIfcD8">[YOUTUBE] "What is machine learning by Weights & Biases.</a></li>
   
 <br>
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
