@@ -89,6 +89,12 @@
 <li><a href="https://www.youtube.com/watch?v=St__HLMZ8qQ">[YOUTUBE] "How Ansible works" by Red Hat videos.</a></li> 
 <br>
 
+#DATAHASABETTERIDEA
+<br>
+
+<li><a href="https://www.youtube.com/watch?v=C6WKt6fJiso">[YOUTUBE] "How Big Data can influence decisions that actually matter" by Prukalpa Sankar, TEDxGateway.</a></li> 
+  
+<br>
 #LEARNING AND DEVELOPMENT: REMAIN VIGILANT
 <br>
 
