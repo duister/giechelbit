@@ -8,4 +8,7 @@
 <li><a href="https://www.youtube.com/watch?v=PYXdTIwdkj0">[YOUTUBE] "A long day (with no Cybersecurity)".</a></li>
 <li><a href="https://www.youtube.com/watch?v=ZmZ9fxxyCok">[YOUTUBE] "Security awareness" by the Texas Municipal League Intergovernmental Risk Pool.</a></li>
 <li><a href="https://wigle.net/">[WIGLE] All the networks. Found by Everyone.</a></li>
+<li><a href="https://haveibeenpwned.com/">[PWN] Have I been pwned.</a></li>
+<li><a href="https://monitor.firefox.com">[BROWSE] Firefox Monitor.</a></li>
+<li><a href="https://passwords.google.com/intro"<[BROWSE] Google Password Manager.</a></li>
 <br>
