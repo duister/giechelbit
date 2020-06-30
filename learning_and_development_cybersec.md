@@ -10,5 +10,6 @@
 <li><a href="https://wigle.net/">[WIGLE] All the networks. Found by Everyone.</a></li>
 <li><a href="https://haveibeenpwned.com/">[PWN] Have I been pwned.</a></li>
 <li><a href="https://monitor.firefox.com">[BROWSE] Firefox Monitor.</a></li>
-<li><a href="https://passwords.google.com/intro"<[BROWSE] Google Password Manager.</a></li>
+<li><a href="https://passwords.google.com/intro">[BROWSE] Google Password Manager.</a></li>
+<li><a href="https://www.youtube.com/watch?v=WgbWBRfNLdc">[YOUTUBE] What would a cyber attack look like in the real world by Hiscox UK.</a></li>
 <br>
