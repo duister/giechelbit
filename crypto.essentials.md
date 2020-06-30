@@ -12,3 +12,4 @@
 #SIGNALS
 <br>
 <li><a href="http://www.semaphorify.info/">[SIG]Semaphorify.</a></li>
+<li><a href="https://www.geocachingtoolbox.com">[SIG]Geocachingtoolbox.</a></li>
