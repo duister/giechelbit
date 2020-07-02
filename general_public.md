@@ -18,5 +18,10 @@
 <li><a href="https://www.dashlane.com/">DashLane.</a></li>
 <li><a href="https://1password.com/">1Password.</a></li>
 <br>
+
+#Authentication:
+<br>
+<li><a href="https://tweakers.net/reviews/7968/1/wat-kun-je-met-deze-fysieke-beveiligingssleutels-introductie.html">Tweakers: beveiligingssleutels onder de loep.</a></li>
+
 #Lost files:
 <li><a href="https://support.microsoft.com/en-us/help/4538642/windows-10-restore-lost-files">Microsoft: recover lost files on Windows 10</a></li>
