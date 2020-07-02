@@ -1,3 +1,8 @@
+
+#JULY 2020
+<li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
+<br>
+
 #JUN 2020
 <li><a href="https://orangecyberdefense.com/nl/blog/cyberdefense/gedetailleerde-productanalyse-zoom-microsoft-teams/">[06/2020 * ZOOM] Orange Cyber Defense, Gedetailleerde productanalyse - Zoom & Microsoft Teams.</a></li>
 <li><a href="https://tweakers.net/nieuws/168248/aantal-vriend-in-nood-fraudemeldingen-stijgt-sterk-door-coronacrisis.html">[06/2020 * PHISH] Tweakers, Aantal 'vriend in nood' fraudemeldingen stijgt sterk door corona crisis.</a></li>
