@@ -34,8 +34,10 @@
 <li><a href="https://www.youtube.com/watch?v=Z5Gi2Bpd82M">[YOUTUBE] "What is Software-Defined Network (SDN)" by IDG TECH Talk.</a></li>
 <li><a href="https://www.youtube.com/watch?v=XFXdWg1p5to">[YOUTUBE] "Software-defined networking explained (SDN)" by Vodafone Business UK.</li>
 <li><a href="https://www.youtube.com/watch?v=5I1v_sfBWVQ">[YOUTUBE] "Cisco Intent Based Data Center" by Cisco.</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZohNCniVliU">[YOUTUBE] "Intent-based networking explained" by Cisco.</a></li>
 <li><a href="https://www.youtube.com/watch?v=0qotVMX-J5s">[YOUTUBE] "Containerization Explained" by IBM Cloud.</a></li>
 <li><a href="https://www.youtube.com/watch?v=l75B6D9xyMQ">[YOUTUBE] "Fundamentals of Cisco Software-Defined Networking" (ACI) by Cisco.</a></li>
+<li><a href="https://www.youtube.com/watch?v=o4Ag0M7UvsM&t">[YOUTUBE] "Cisco Data Center - ACI by Anthony Sequeira.</a></li>
 <li><a href="https://www.youtube.com/watch?v=Nnh02NozVyg">[YOUTUBE] "Benefits of ACI" by Cisco. </a></li>
 <li><a href="https://www.youtube.com/watch?v=4ht22ReBjno">[YOUTUBE] "The illustrated Children's Guide to Kubernetes.</a></li>
 <br>
