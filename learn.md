@@ -12,4 +12,6 @@
 #Microsoft
 
 <li><a href="https://docs.microsoft.com/en-us/learn/">MS: Microsoft Learn</a></li>
+<li><a href="https://esi.microsoft.com/">MS: Microsoft ESI</a></li>
+<li><a href="https://www.youtube.com/user/windowsazure">MS: Microsoft Azure Youtube</a></li>
 <br>
