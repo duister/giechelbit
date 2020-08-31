@@ -1,5 +1,15 @@
 <html>
 <body>
+<pre>
+'##::: ##:'########:'##:::::'##::'######::
+ ###:: ##: ##.....:: ##:'##: ##:'##... ##:
+ ####: ##: ##::::::: ##: ##: ##: ##:::..::
+ ## ## ##: ######::: ##: ##: ##:. ######::
+ ##. ####: ##...:::: ##: ##: ##::..... ##:
+ ##:. ###: ##::::::: ##: ##: ##:'##::: ##:
+ ##::. ##: ########:. ###. ###::. ######::
+..::::..::........:::...::...::::......:::
+</pre>
 <ol reversed>
 <li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
 
