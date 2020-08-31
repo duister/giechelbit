@@ -1,4 +1,5 @@
 <html>
+<body>
 <ol reversed>
 <li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
 
@@ -305,4 +306,5 @@
 		<li><a href="https://www.wired.com/2001/11/lantern-backdoor-flap-rages/">[11/2002 * MALWARE] Wired, 'latern' backdoor flap rages.</a></li>
 		<li><a href="https://en.wikipedia.org/wiki/Antisec_Movement">[- * -] Wikipedia: AntiSec Movement.</a></li>
 </ol>
+</body>
 </html>
