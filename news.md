@@ -69,8 +69,7 @@
 <li><a href="https://wetransfer.pr.co/178267-security-notice">[06/2019 * WETRANSFER] Wetransfer, update security notice.</a></li>
 <li><a href="https://www.manrs.org/2019/06/large-european-routing-leak-sends-traffic-through-china-telecom/">[06/2019 * BGP] MANRS, large European routing leak sends traffic through China telecom.</a></li>
 <li><a href="https://www.theregister.co.uk/2019/06/24/verizon_bgp_misconfiguration_cloudflare/">[06/2019 * BGP] The Register, BGP super-blunder: how Verizon today sparked a "cascading catastrophic failure" that knackered Cloudflare, Amazon, etc."</a></li>
-
-		<li><a href="https://nakedsecurity.sophos.com/2019/06/13/vim-devs-fix-system-pwning-text-editor-bug/">[06/2019 * VIM] Sophos, VIM devs fix system pwning text editor bug.</a></li>
+<li><a href="https://nakedsecurity.sophos.com/2019/06/13/vim-devs-fix-system-pwning-text-editor-bug/">[06/2019 * VIM] Sophos, VIM devs fix system pwning text editor bug.</a></li>
 		<li><a href="https://medium.com/@magrabursofily/exploit-poc-linux-command-execution-on-vim-neovim-vulnerability-cve-2019-12735-4c770d5573cf">[06/2019 * VIM] Medium, Exploit PoC: Linux command execution on Vim/Neovim vulnerability (CVE-2019-12735).</a></li>
 		<li><a href="https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/">[06/2019 * BGP] Cloudflare, How Verizon and a BGP optimizer knocked large parts of the Internet Offline today.</a></li>
 		<li><a href="https://www.theverge.com/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words">[06/2019 * ML] The Verge, AI Deepfakes are now as simple as typing whatever you want your subject to say.</a></li>
@@ -278,7 +277,7 @@
 		<li><a href="https://www.wired.com/2015/04/researchers-uncover-method-detect-nsa-quantum-insert-hacks/">[04/2015 * NSA] Wired: how to detect sneaky NSA QUANTUM INSERT attacks.</a></li>
 		<li><a href="https://www.wired.com/2015/04/researchers-uncover-method-detect-nsa-quantum-insert-hacks/">[04/2015 * NSA] Wired: researchers uncover method to detect NSA quantum insert hacks.</a></li>
 		
-		<li><a href="http://blogs.cisco.com/security/talos/angler-domain-shadowing">[03/2015 * MALWARE] TALOS: Angler lurking in the domain shadows.</a></li>
+<li><a href="http://blogs.cisco.com/security/talos/angler-domain-shadowing">[03/2015 * MALWARE] TALOS: Angler lurking in the domain shadows.</a></li>
 		<li><a href="https://blog.malwarebytes.com/threat-analysis/2015/04/domain-shadowing-with-a-twist/">[03/2015 * MALWARE] MalwareBytes: domain shadowing.</a></li> 
 		<li><a href="https://blog.cloudflare.com/deprecating-dns-any-meta-query-type/">[03/2015 * DNS] Cloudflare, deprecating the DNS ANY meta-query type.</a></li>
 		<li><a href="https://threatpost.com/domain-shadowing-latest-angler-exploit-kit-evasion-technique/111396/">[03/2015 * MALWARE] Threatpost: domain shadowing latest angler exploit kit evasion technique with a twist.</a></li>
