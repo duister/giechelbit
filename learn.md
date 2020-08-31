@@ -10,8 +10,12 @@
 <br>
 
 #Microsoft
-
+<br>
 <li><a href="https://docs.microsoft.com/en-us/learn/">MS: Microsoft Learn</a></li>
 <li><a href="https://esi.microsoft.com/">MS: Microsoft ESI</a></li>
 <li><a href="https://www.youtube.com/user/windowsazure">MS: Microsoft Azure Youtube</a></li>
 <br>
+
+#LND
+<br>
+<li><a href="https://blog.fuseuniversal.com/design/questions-ld-need-to-ask-the-business">LND: Questions L&D needs to ask the business.</a></li>
