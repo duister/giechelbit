@@ -1,4 +1,5 @@
 <html>
+<ol reversed>
 <li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
 
 <li><a href="https://orangecyberdefense.com/nl/blog/cyberdefense/gedetailleerde-productanalyse-zoom-microsoft-teams/">[06/2020 * ZOOM] Orange Cyber Defense, Gedetailleerde productanalyse - Zoom & Microsoft Teams.</a></li>
@@ -14,13 +15,11 @@
 <li><a href="https://radio1.be/we-zijn-onze-privacy-helemaal-nog-niet-kwijt">[11/2019 * PRIVACY] Radio1, Matthias Dobbelaere-Welvaert, "we zijn onze privacy helemaal nog niet kwijt.</a></li>
 <li><a href="https://tweakers.net/nieuws/159406/minister-grapperhaus-van-justitie-wil-achterdeur-in-versleutelde-chat-apps.html">
 [11/2019 * CRYPTO] Tweakers, Minister Grapperhaus van Justitie wil achterdeur in versleutelde chat-apps.</a></li>
-<br>
 <li><a href="https://www.engadget.com/2019/10/18/us-military-nuclear-missiles-floppy-disks">[10/2019 * FLOPPY] Engadget, US Military will no longer use floppy disks to coordindate nuke launches.</a></li> 
 <li><a href="https://www.nu.nl/tech/5999669/vpn-netwerk-luchtverkeersleiding-en-overheid-was-toegankelijk-door-lek.amp">[09/2019 * VPN] NU.NL, VPN-network luchtverkeersleiding en overheid was toegankelijk door lek.</a></li>
 <li><a href="https://www.bloomberg.com/news/articles/2019-09-28/facebook-whatsapp-will-have-to-share-messages-with-u-k-police">[09/2019 * CRYPTO] Bloomberg: Facebook, WhatsApp will have to share messages with U.K.</a></li>
 <li><a href="https://tweakers.net/nieuws/157048/gegevens-patienten-haga-ziekenhuis-werden-gebruikt-als-boodschappenlijstje.html?nb=2019-09-08&u=0800">
 [09/2019 * GDPR] Tweakers: gegevens patiënten Haga Ziekenhuis werden gebruikt als boodschappenlijstje.</a></li>
-<br>
 <li><a href="https://www.vpnmentor.com/blog/report-biostar2-leak/">[08/2019 * BIOSTAR] VpnMentor: Report: data breach in biometric security platform affecting millions of users.</a></li>
 <li><a href="https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html">[08/2019 * IOS] Project Zero, a very deep dive into iOS Exploit Chains found in the wild.</a></li>
 <li><a href="https://www.wired.com/story/ios-attack-watering-hole-project-zero/">[08/2019 * IOS] Wired, Mysterious iOS Attack Changes Everything We Know About iPhone Hacking".</a></li>
@@ -29,7 +28,6 @@
 <li><a href="https://www.infosecurity-magazine.com/news/certificate-giant-slams-plan-short/">[08/2019 * PKI] InfoSecurity Mag, Certificate Giant Slams Plan to Shorten HTTPS Lifespans.</a></li>
 <li><a href="https://www.zdnet.com/article/google-wants-to-reduce-lifespan-for-https-certificates-to-one-year/">[08/2019 * PKI] ZDNet, Google wants to reduce lifespan for HTTPS certificates to one year.</a></li>
 <li><a href="https://www.vrt.be/vrtnws/nl/2019/08/13/valse-verkeersinfo-hacking/">[08/2019 * RADIO] VRT, "Luchtaanval op E40": hoe kunnen "hackers" valse verkeersinformatie naar het dashboard van uw auto sturen?".</a></li>
-<br>
 <li><a href="https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/">[07/2019 * PRIVACY] Forbes, the encryption debate is over - dead at the hands of facebook.</a></li>
 <li><a href="https://www.theregister.co.uk/2019/07/19/on_call/">[07/2019 * OPS] The Register, Operation Desert Sh!tstorm: routine test shoots down military's top-secret internets.</a></li>
 <li><a href="https://www.theregister.co.uk/2019/07/19/2015_database_hack_slack/">[07/2019 * SLACK] The Register, 2015 database hack is the terrible gift that keeps giving for Slack.</a></li>
@@ -306,5 +304,5 @@
 		<li><a href="https://www.theregister.co.uk/2002/03/14/lawenforcement_dirt_trojan_released/">[03/2002 * MALWARE] The Register, law-enforcement DIRT Trojan released.</a></li>
 		<li><a href="https://www.wired.com/2001/11/lantern-backdoor-flap-rages/">[11/2002 * MALWARE] Wired, 'latern' backdoor flap rages.</a></li>
 		<li><a href="https://en.wikipedia.org/wiki/Antisec_Movement">[- * -] Wikipedia: AntiSec Movement.</a></li>
-
+</ol>
 </html>
