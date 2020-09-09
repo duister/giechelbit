@@ -1,3 +1,5 @@
+<html>
+  <body>
 #CYBERSEC GENERAL
 
 <li><a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material">LEARN: ENISA training materials.</a></li>
@@ -19,3 +21,5 @@
 #LND
 <br>
 <li><a href="https://blog.fuseuniversal.com/design/questions-ld-need-to-ask-the-business">LND: Questions L&D needs to ask the business.</a></li>
+</body>
+</html>
