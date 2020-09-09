@@ -1,3 +1,5 @@
+<html>
+  <body>
 #OSINT
 
 #GENERIC
@@ -9,3 +11,5 @@
 <li><a href="https://peekyou.com">OSINT: PeekYou.</a></li>
 <li><a href="http://web.archive.org/">OSINT: Wayback Machine.</a></li>
 <li><a href="https://osintframework.com/">OSINT: OSINT Framework.</a></li>
+</body>
+</html>
