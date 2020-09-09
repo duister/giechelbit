@@ -1,3 +1,6 @@
+<html>
+<body>
+
 #CRYPTO ESSENTIALS 
 <br>
 <li><a href="https://www.dcode.fr/">[CRYPTO] DCODE.</a></li>
@@ -13,3 +16,5 @@
 <br>
 <li><a href="http://www.semaphorify.info/">[SIG]Semaphorify.</a></li>
 <li><a href="https://www.geocachingtoolbox.com">[SIG]Geocachingtoolbox.</a></li>
+</body>
+</html>
