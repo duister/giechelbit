@@ -15,6 +15,9 @@
 		<li><a href="https://www.guerrillamail.com/">SE/TOOL: Guerrilamail.com.</a></li>
 		<li><a href="http://www.dispostable.com/">SE/TOOL: DisPostAble.</a></li>
 		<li><a href="https://hushed.com/">SE/TOOL: Hushed, disposable numbers.</a></li>
+		<li><a href="https://maildrop.cc/">SE/TOOL: MailDrop, Save your inbox from spam.</a></li>
+		<li><a href="https://mailsac.com/">SE/TOOL: MailSac, Disposable mail and API.</a></li>
+		<li><a href="https://10minutemail.com/">SE/TOOL: 10 Minute Mail.</a></li>
 		<li><a href="https://github.com/securestate/king-phisher">SE/TOOL: King Phisher.</a></li>
 		<li><a href="https://www.dmarcanalyzer.com/spf/">SE/SPF: DMARC Analyzer: What is SPF?</a></li>
 		<li><a href="https://www.dmarcanalyzer.com/spf/checker/">SE/SPF: DMARC Analyzer: SPF Record Check.</a></li>
