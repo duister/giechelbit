@@ -1,0 +1,20 @@
+<html>
+<body>
+<li>Denial of Service (DoS):</li>
+	<ul>
+		<li><a href="http://g-laurent.blogspot.be/2016/11/ms16-137-lsass-remote-memory-corruption.html">DOS: MS16-137 LSASS.</a></li>
+		<li><a href="https://www.kb.cert.org/vuls/id/867968">DOS: VU#867968, MS SMB Tree Connect Response DoS.</a></li>
+		<li><a href="https://github.com/lgandx/PoC/tree/master/SMBv3%20Tree%20Connect">DOS: VU#867968 SMB Tree PoC.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">DOS: Wikipedia on (D)DoS.</a><li>
+		<li><a href="https://en.wikipedia.org/wiki/Radio_jamming">DOS: Wikipedia on radio jamming.</a></li>
+		<li><a href="http://science.howstuffworks.com/e-bomb2.htm">DOS: How stuff works, Ebomb (EMP).</a></li>
+		<li><a href="http://en.wikipedia.org/wiki/EMP_weapon">DOS: Wikipedia on EMP weapons.</a></li>
+		<li><a href="http://online.wsj.com/articles/james-woolsey-and-peter-vincent-pry-the-growing-threat-from-an-emp-attack-1407885281">DOS: The growing threat from an EMP attack.</li></a>
+		<li><a href="http://www.swpc.noaa.gov/">DOS: US, Space Weather Prediction Center.</a></li>
+		<li><a href="http://www.boeing.com/Features/2012/10/bds_champ_10_22_12.html">DOS: BOEING CHAMP.</a></li>
+		<li><a href="http://news.nationalpost.com/2013/01/12/how-boeings-non-lethal-champ-missiles-could-mark-a-new-era-in-modern-day-warfare/">DOS: National Post: how Boeings non-lethal CHAMP missiles could mark a new ara in modern day warfare.</a></li>
+		<li><a href="http://www.ctvnews.ca/sci-tech/most-powerful-solar-flare-in-a-decade-triggers-storm-warning-1.3588041">DOS: CTVNEWS, most powerful solar flare in a decade triggers storm warning.</a></li>
+
+	</ul>
+</body>
+</html>
