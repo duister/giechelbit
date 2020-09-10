@@ -1,0 +1,30 @@
+<html>
+<body>
+<li>Distributed Denial of Service:</li>
+	<ul>
+		<li><a href="https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia">DDOS: Wikipedia, 2007 cyberattacks on Estonia.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/2010_cyberattacks_on_Myanmar">DDOS: Wikipedia, 2010 cyberattacks on Myanmar.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak">DDOS: Wikipedia, US diplomatic cables leak.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Operation_Payback">DDOS: Wikipedia: Operation Payback.</a></li>
+		<li><a href="http://www.digitalattackmap.com/understanding-ddos/">DDOS: Arbor, understanding DDoS.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Operation_Ababil">DDOS: Wikipedia, 2012, Operation Ababil.</a></li>
+		<li><a href="https://security.radware.com/ddos-knowledge-center/ddospedia/operation-ababil/">DDOS: Radware - Operation Ababil.</a></li>
+		<li><a href="https://www.verisign.com/en_US/security-services/ddos-protection/cyber-security-resources/index.xhtml">DDOS: Verisign.</a></li>
+		<li><a href="https://www.verisign.com/en_US/forms/confirmation/report-ddos-trends-Q12017.xhtml?">DDOS: Verisign DDOS 2017.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Mirai_(malware)">DDOS: wikipedia on Mirai.</a></li>
+		<li><a href="http://smurf.powertech.no//">DDOS: SMURF amplifier monitor.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/BASHLITE">DDOS: BASHLITE.</a></li>
+		<li><a href="https://www.incapsula.com/blog/malware-analysis-mirai-ddos-botnet.html">DDOS: incapsula, malware analysis Mirai DDoS botnet.</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Character_Generator_Protocol">PROT: Wikipedia on CHARGEN.</a></li>
+		<li><a href="https://www.icsi.berkeley.edu/icsi/node/2046">PAPER: Berkeley, an analysis of using reflectors for Distributed Denial of Service attacks.</a></li>
+		<li><a href="http://pages.cs.wisc.edu/~plonka/netgear-sntp/">DDOS: flawed router flood university of Wisconsin Internet Time Server.</a></li>
+		<li><a href="http://web.archive.org/web/20060423012837/http://people.freebsd.org/~phk/dlink/">DDOS: open letter to D-LINK about NTP vandalism.</a></li>
+		<li><a href="https://nvd.nist.gov/vuln/detail/CVE-2013-5211">DDOS: CVE-2013-5211, NTP MON_GETLIST issues.</a></li>
+		<li><a href="http://tools.cisco.com/security/center/content/CiscoSecurityNotice/CVE-2013-5211">DDOS: Cisco - CVE-2013-5211.</a></li>
+		<li><a href="http://openresolverproject.org/">DDOS: Open Resolver Project (DNS).</a></li>
+		<li><a href="https://blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/">DDOS: Cloudflare, Memcrashed - major amplification attacks from UDP port 11211.</a></li>
+		<li><a href="https://github.com/memcached/memcached/blob/master/doc/protocol.txt">DDOS: GITHUB, Memcashed protocol.</a></li>
+		<li><a href="https://www.nucleus.be/blog/caching/memcached-gebruiken-wie-wat-waar/">DDOS: Nucleus.be, Memcached gebruiken: wie, wat, waar?.</a></li>
+	</ul>
+  </body>
+  </html>
