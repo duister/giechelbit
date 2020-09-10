@@ -1,0 +1,24 @@
+<html>
+<body>
+<li>Research, researchers, PoCs:</li>
+	<ul>
+		<li><a href="https://github.com/lgandx">RES/POC: Laurent Gaffie.</a></li>
+		<li><a href="http://www.wiretrip.net/">RES/POC: Rain Forest Puppy (RFP).</a></li>
+		<li><a href="https://blog.didierstevens.com/">RES/POC: Didier Stevens (Labs).</a></li>
+		<li><a href="http://taviso.decsystem.org">RES/POC: Tavis Ormandy (Google).</a></li>
+		<li><a href="https://www.rapid7.com/db/modules/exploit/windows/local/ms10_015_kitrap0d">VULN/POC: MS-10-015 Kitrap0d.</a></li>
+		<li><a href="https://www.exploit-db.com/papers/">VULN/PAPER: Papers, Exploit Database.</a></li>
+		<li><a href="https://www.exploit-db.com/">RES/POC: Exploit Database.</a></li>
+		<li><a href="https://shellshocker.net/">RES/POC: ShellShocker - ShellShock.</a></li>
+		<li><a href="https://nmap.org">SCAN: Nmap Network scanner.</a></li>
+		<li><a href="http://www.carnal0wnage.com/">RES/POC: Chris Gates, Carnal0wnage.</a></li>
+		<li><a href="https://subt0x10.blogspot.be/">RES/POC: SubTee.</a></li>
+		<li><a href="http://www.pwn2hack.com/">RES/POC: Sow Ching Shiong.</a></li>
+		<li><a href="http://scarybeastsecurity.blogspot.be">RES/BLOG: Chris Evans - ScaryBeasts.</a></li>
+		<li><a href="http://lcamtuf.coredump.cx/">RES/POC: Michal Zalewski, lcamtuf.coredump.cx.</a></li>
+		<li><a href="http://www.citi.umich.edu/u/provos/">RES/POC: Niels Provos.</a></li>
+		<li><a href="https://packetstormsecurity.com/files/author/289/">RES/POC: packetstorm on RFP (Rain Forest Puppy) tools (whisker, ...).</a></li>
+		<li><a href="http://blog.frizk.net">RES/POC: Frizk.</a></li>
+	</ul>
+</body>
+</html>
