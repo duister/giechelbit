@@ -1,7 +1,7 @@
 <html>
   <body>
     
-    <li>Online learning:</li>
+  <li>Online learning:</li>
 	<ul>
 		<li><a href="https://media.ccc.de/">LEARN: Media Archive of the Chaos Computer Club (CCC).</a></li>
 		<li><a href="http://www.cisco.com/c/m/en_us/training-events/events-webinars/techwise-tv/listings.html">VBLOG: Cisco TechWise TV.</a></li>
@@ -19,7 +19,7 @@
 		<li><a href="http://mininet.org/">PLAY: Mininet, an instant virtual network on your machine.</a></li>
 		<li><a href="https://media.ccc.de/">LEARN: Media CCC.</a></li>
   
-		<li><a href="https://f5.com/education/training/free-courses">LEARN: F5 free courses.</a></li>
+<li><a href="https://f5.com/education/training/free-courses">LEARN: F5 free courses.</a></li>
 		<li><a href="https://inter.viewcentral.com/Events/cust/search_results.aspx?cid=splunk&pid=1&lid=1&tstamp=1495219603528&event_id=713&postingForm=catalog.aspx">LEARN: Splunk 6.X fundamentals (free).</a></li>
 		<li><a href="https://www.w3schools.com">LEARN: HTML & CSS.</a></li>
 		<li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LEARN: LiveOverflow (Youtube) explanation on the art of memory attacks and exploits.</a></li>
