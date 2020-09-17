@@ -119,7 +119,9 @@
 		<li><a href="https://chrissanders.org/about/hits/">BLOG: Chris Sanders.</a></li>
 		<li><a href="https://www.darkreading.com">NEWS: Dark Reading.</a></li>
 		<li><a href="https://haveibeenpwned.com">NEWS: Have I been Pwned.</a></li>
-		<li><a href="https://azure.microsoft.com/en-us/blog/">NEWS: Azure Blogs.</a></li>
+		<li><a href="https://azure.microsoft.com/en-us/blog/">BLOG: Azure Blogs.</a></li>
+			<li><a href="https://www.secura.com/blog">BLOG Secura Blog.</a></li>
+			<li><a href="https://blog.nviso.eu/">BLOG: Nvisio.</a></li>
 	</ul>
   </body>
   </html>
