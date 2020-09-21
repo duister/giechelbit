@@ -13,10 +13,10 @@ to work in a more flexible way.
 # Opinions, products or services mentioned in references are not endorsed and are only for documentation purposes only
 </pre>
 <br>
-<br>
+<br><center>
 <bold>IF YOU THINK THAT EDUCATION IS EXPENSIVE<br>
   TRY ESTIMATING THE COST OF IGNORANCE<br>
-  </bold>
+  </bold></center>
 
 
                                                                                                       
