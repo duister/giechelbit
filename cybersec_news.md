@@ -11,8 +11,9 @@
 ..::::..::........:::...::...::::......:::
 </pre>
 <ol reversed>
-<li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
 
+<li><a href="https://m.hln.be/geld/proximus-en-orange-vervangen-huawei-door-nokia~a049d658/">[10/2020 * HUAWEI] Proximus en Orange vervangen Huawei door Nokia.</a></li>
+<li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
 <li><a href="https://orangecyberdefense.com/nl/blog/cyberdefense/gedetailleerde-productanalyse-zoom-microsoft-teams/">[06/2020 * ZOOM] Orange Cyber Defense, Gedetailleerde productanalyse - Zoom & Microsoft Teams.</a></li>
 <li><a href="https://tweakers.net/nieuws/168248/aantal-vriend-in-nood-fraudemeldingen-stijgt-sterk-door-coronacrisis.html">[06/2020 * PHISH] Tweakers, Aantal 'vriend in nood' fraudemeldingen stijgt sterk door corona crisis.</a></li>
 <li><a href="https://tweakers.net/nieuws/168158/ibm-stopt-met-gezichtsherkenning-vanwege-mogelijk-gebruik-voor-massasurveillance.html">[06/2020 * BIO] Tweakers, IBM stopt met gezichtsherkenning vanwege mogelijk gebruik voor massasurveillance.</a></li>
