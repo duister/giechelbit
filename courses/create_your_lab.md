@@ -2,9 +2,10 @@
 <body>
 <p class="blabla">
 If you would like to test certain technologies and situations,<br>
-it is strongly advised to do this in a private, separated lab.<br>
+it is strongly advised to do this in a private, separated lab.<br><br>
+
 An alternative might be to invest and investigate a cloud based lab solution.<br>
-Most setups will run fine in a virtualized environment.<br>
+Most of my classroom setups and labs will run fine in a virtualized environment.<br>
 
 <ul class="blablalisting">
 <li><a href="https://www.vmware.com/go/get-free-esxi">CLASS: VMWare ESXi (free license).</a></li>
