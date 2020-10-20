@@ -22,6 +22,7 @@ Most setups will run fine in a virtualized environment.<br>
 <li><a href="http://www.openvas.org/vm.html">CLASS: OpenVAS VM.</a></li>
 <li><a href="https://www.theforeman.org/">CLASS: The Foreman, lifecycle management tool for physical and virtual servers.</a></li>
 <li><a href="https://www.redhat.com/en/blog/importing-vms-kvm-virt-v2v?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000ZyfwAAC">INFO: Red Hat, Importing VMs to KVM with virt-v2v.</a></li>
+<li><a href="https://www.gns3.com/software">RELATED: GNS3, build, design and test your network in a risk-free virtual environment</a></li>
 </ul>
 </p>
 </body>
