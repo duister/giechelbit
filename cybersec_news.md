@@ -15,11 +15,13 @@
 <li><a href="https://vrtnu.page.link/mHxJzPoFVtaqCygC7">[10/2020 * VRT] De Ideale Wereld met Inti De Ceukelaire.</a></li>
 <li><a href="https://m.hln.be/geld/proximus-en-orange-vervangen-huawei-door-nokia~a049d658/">[10/2020 * HUAWEI] Proximus en Orange vervangen Huawei door Nokia.</a></li>
 <li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
+<li><a href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-07/cp200091nl.pdf">[07/2020 * EU] EU, EU-VS Privacyshield geboden bescherming ongeldig verklaard.</a></li>
 <li><a href="https://orangecyberdefense.com/nl/blog/cyberdefense/gedetailleerde-productanalyse-zoom-microsoft-teams/">[06/2020 * ZOOM] Orange Cyber Defense, Gedetailleerde productanalyse - Zoom & Microsoft Teams.</a></li>
 <li><a href="https://tweakers.net/nieuws/168248/aantal-vriend-in-nood-fraudemeldingen-stijgt-sterk-door-coronacrisis.html">[06/2020 * PHISH] Tweakers, Aantal 'vriend in nood' fraudemeldingen stijgt sterk door corona crisis.</a></li>
 <li><a href="https://tweakers.net/nieuws/168158/ibm-stopt-met-gezichtsherkenning-vanwege-mogelijk-gebruik-voor-massasurveillance.html">[06/2020 * BIO] Tweakers, IBM stopt met gezichtsherkenning vanwege mogelijk gebruik voor massasurveillance.</a></li>
 <li><a href="https://www.techradar.com/best/password-manager">[06/2020 * ENDUSER] TechRadar: the best password manager in 2020.</a></li>
 <li><a href="https://www.theverge.com/2019/10/2/20892854/google-password-checkup-hack-detection-now-available">[10/2019]The Verge: Google is making it easier to check if your passwords have been compromised in a data breach.</a></li>
+<li><a href="https://www.nldigital.nl/news/de-schrems-ii-zaak-wat-is-er-gebeurd/">[07/2020 * PRIVACY] NLDIGITAL, De Scherms II-zaak: wat is er gebeurd.</a></li>
 <li><a href="https://www.hln.be/in-de-buurt/ieper/picanol-zwaar-getroffen-door-cyberaanval-hackers-vragen-losgeld">[01/2020 * TRENDS] HLN, Picanol zwaar getroffen door cyberaanval, hackers vragen losgeld.</a></li>
 <li><a href="https://www.weforum.org/agenda/2020/01/these-will-be-the-main-cybersecurity-trends-in-2020/">[01/2020 * TRENDS] WEFORUM, These will be the main cybersecurity trends in 2020.</a></li>
 <li><a href="https://www.vrt.be/vrtnws/nl/2020/01/07/groot-veiligheidslek-in-tiktok-sociale-media-en-vooral-tiktok/">[01/2020 * VULN] VRT, Groot veiligheidslek in populaire video-app TikTok.</a></li>
