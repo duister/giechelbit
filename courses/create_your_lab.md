@@ -26,6 +26,7 @@ Most of my classroom setups and labs will run fine in a virtualized environment.
 <li><a href="https://www.gns3.com/software">RELATED: GNS3, build, design and test your network in a risk-free virtual environment</a></li>
 <li><a href="https://learningnetwork.cisco.com/s/virl">RELATED: Cisco Virtual Internet Routing Lab (VIRL PE)".</a></li>
 </ul>
+<li><a href="https://github.com/GNS3/dynamips">RELATED: Dynamips (Cisco Router Emulator).</a></li>
 </p>
 </body>
 </html>
