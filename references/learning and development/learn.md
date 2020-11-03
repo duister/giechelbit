@@ -90,5 +90,6 @@
 #LND
 <br>
 <li><a href="https://blog.fuseuniversal.com/design/questions-ld-need-to-ask-the-business">LND: Questions L&D needs to ask the business.</a></li>
+<li><a href="https://learningnews.com/">LND: Learning News.</a></li>
 </body>
 </html>
