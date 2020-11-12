@@ -12,6 +12,7 @@
 </pre>
 <ol reversed>
 
+<li><a href="https://euobserver.com/justice/150012">[11/2020 * EU] EUOBSERVER, EU to target migrant integration and encrypted apps.</a></li>
 <li><a href="https://vrtnu.page.link/mHxJzPoFVtaqCygC7">[10/2020 * VRT] De Ideale Wereld met Inti De Ceukelaire.</a></li>
 <li><a href="https://m.hln.be/geld/proximus-en-orange-vervangen-huawei-door-nokia~a049d658/">[10/2020 * HUAWEI] Proximus en Orange vervangen Huawei door Nokia.</a></li>
 <li><a href="https://tweakers.net/nieuws/169056/eu-commissaris-wil-snel-internet-voor-alle-europeanen-via-internetsatellieten.html">[07/2020 * EU] Eu-commissaris wil snel internet voor alle Europeanen via internetsatellieten.</a></li>
