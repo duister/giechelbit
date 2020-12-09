@@ -68,6 +68,8 @@
 		<li><a href="https://www.microsoft.com/en-us/learning/community-blog.aspx">LEARN: MS learn blog.</a></li>
 	</ul>
     
+#PROGRAMS
+https://opportunity.linkedin.com/skills-for-in-demand-jobs
     
 #CYBERSEC GENERAL
 
