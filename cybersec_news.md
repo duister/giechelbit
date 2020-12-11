@@ -12,6 +12,7 @@
 </pre>
 <ol reversed>
 
+<li><a href="https://github.com/fireeye/red_team_tool_countermeasures">[12/2020 * BREACH] Fireeye Red Team Tool Countermeasures.<a></li>
 <li><a href="https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html">[12/2020 * BREACH] Fireeye: FireEye shares details of recent cyber attack, actions to protect community.</a></li>
 <li><a href="https://grahamcluley.com/fireeye-hacked-what-you-need-to-know/">[12/2020 * BREACH] Graham Cluley, FireEye Hacked; "state-sponsered attackers" blamed as Red Team tools stolen. Here's what you need to know.</a></li>
 <li><a href="https://ccb.belgium.be/nl/beleid-voor-de-geco%C3%B6rdineerde-bekendmaking-van-kwetsbaarheden-en-beloningsprogramma-voor-het">[12/2020 * LEG] CCB, Beleid voor de gecoördineerde bekendmaking van kwetsbaarheden en beloningsprogramma voor het opsporen van kwetsbaarheden.</a></li>
