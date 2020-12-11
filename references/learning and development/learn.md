@@ -69,7 +69,8 @@
 	</ul>
     
 #PROGRAMS
-https://opportunity.linkedin.com/skills-for-in-demand-jobs
+<li><a href="https://opportunity.linkedin.com/skills-for-in-demand-jobs">LEARN: Collective of LinkedIn, Microsoft and Github to learn for free towards a job.</a></li>
+<li><a href="https://grow.google/intl/europe/">LEARN: Grow with Google.<a></li>
     
 #CYBERSEC GENERAL
 
