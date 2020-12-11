@@ -12,6 +12,7 @@
 </pre>
 <ol reversed>
 
+<li><a href="https://grahamcluley.com/fireeye-hacked-what-you-need-to-know/">[12/2020 * BREACH] Graham Cluley, FireEye Hacked; "state-sponsered attackers" blamed as Red Team tools stolen. Here's what you need to know.</a></li>
 <li><a href="https://ccb.belgium.be/nl/beleid-voor-de-geco%C3%B6rdineerde-bekendmaking-van-kwetsbaarheden-en-beloningsprogramma-voor-het">[12/2020 * LEG] CCB, Beleid voor de gecoördineerde bekendmaking van kwetsbaarheden en beloningsprogramma voor het opsporen van kwetsbaarheden.</a></li>
 <li><a href="https://www.hln.be/vtm-nieuws/gegevens-van-zo-n-50-000-bedrijven-op-het-internet-waaronder-ook-belgische-firma-s~a28b80eb/">[11/2020 * BREACH] HLN, gegevens van zo'n 50.000 bedrijven op het internet, waaronder ook Belgische firma's.</a></li>
 <li><a href="https://www.euractiv.com/section/defence-and-security/news/dutch-left-red-faced-after-eu-video-conference-hack/">[11/2020 * EU] Euractiv, Dutch left red-faced after EU video conference "hack".</a></li>
