@@ -17,8 +17,7 @@
 		<li><a href="https://info.microsoft.com/WindowsServer2016VirtualLabs.html">PLAY: Microsoft Server 2016 Virtual Labs.</a></li>
 		<li><a href="https://dcloud.cisco.com/">PLAY: Cisco Dcloud Labs.</a></li>
 		<li><a href="http://mininet.org/">PLAY: Mininet, an instant virtual network on your machine.</a></li>
-		<li><a href="https://media.ccc.de/">LEARN: Media CCC.</a></li>
-  
+		<li><a href="https://media.ccc.de/">LEARN: Media CCC.</a></li>  
 <li><a href="https://f5.com/education/training/free-courses">LEARN: F5 free courses.</a></li>
 		<li><a href="https://inter.viewcentral.com/Events/cust/search_results.aspx?cid=splunk&pid=1&lid=1&tstamp=1495219603528&event_id=713&postingForm=catalog.aspx">LEARN: Splunk 6.X fundamentals (free).</a></li>
 		<li><a href="https://www.w3schools.com">LEARN: HTML & CSS.</a></li>
@@ -93,6 +92,10 @@
 <li><a href="https://esi.microsoft.com/">MS: Microsoft ESI</a></li>
 <li><a href="https://www.youtube.com/user/windowsazure">MS: Microsoft Azure Youtube</a></li>
 <br>
+
+#VENDORS
+<br>
+<li><a href="https://www.globalknowledge.com/en-be/training/online-it-training-subscriptions/gk-polaris">VEN: Global Knowledge Polaris.</a></li>
 
 #LND
 <br>
