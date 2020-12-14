@@ -97,6 +97,10 @@
 <br>
 <li><a href="https://www.globalknowledge.com/en-be/training/online-it-training-subscriptions/gk-polaris">VEN: Global Knowledge Polaris.</a></li>
 
+#NEWSLETTERS
+<br>
+<li><a href="https://www.technologyreview.com/collection/the-download/">NEWS: MIT Technology Review.</a></li>
+
 #LND
 <br>
 <li><a href="https://blog.fuseuniversal.com/design/questions-ld-need-to-ask-the-business">LND: Questions L&D needs to ask the business.</a></li>
