@@ -12,7 +12,8 @@
 </pre>
 <ol reversed>
 
-<li><a href="https://www.demorgen.be/tech-wetenschap/via-fod-financien-kon-het-rijksregisternummer-van-iedereen-worden-gevonden~b6c7ed3b/">[01/2020 * PRIVACY] De Morgen, via FOD Financiën kon het rijksregisternummer van iedereen worden gevonden.</a></li>
+<li><a href="https://www.businesswire.com/news/home/20210125005006/en/NATO-Selects-Thales-to-Supply-Its-First-Defence-Cloud-for-the-Armed-Forces">[02/2021 *  CLOUD] Business wire, NATO selects Thales to supply its first "Defence Cloud" for the armed forces.<a></li>
+<li><a href="https://www.demorgen.be/tech-wetenschap/via-fod-financien-kon-het-rijksregisternummer-van-iedereen-worden-gevonden~b6c7ed3b/">[01/2021 * PRIVACY] De Morgen, via FOD Financiën kon het rijksregisternummer van iedereen worden gevonden.</a></li>
 <li><a href="https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html">[12/2020 * BREACH] FireEye, unauthorized access of FireEye Red Team Tools.</a></li>
 <li><a href="https://github.com/fireeye/red_team_tool_countermeasures">[12/2020 * BREACH] Fireeye Red Team Tool Countermeasures.<a></li>
 <li><a href="https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html">[12/2020 * BREACH] Fireeye: FireEye shares details of recent cyber attack, actions to protect community.</a></li>
