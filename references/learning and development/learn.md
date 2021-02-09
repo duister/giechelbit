@@ -101,6 +101,11 @@
 <br>
 <li><a href="https://www.technologyreview.com/collection/the-download/">NEWS: The Download,  MIT Technology Review.</a></li>
 <li><a href="https://www.technologyreview.com/">NEWS: MIT Technology Review.</a></li>
+<br>
+
+#TRENDING
+<br>
+<li><a href="https://www.oreilly.com/radar/topics/radar-trends/">TREND: O'Reilly Radar.</a></li>
 
 #LND
 <br>
