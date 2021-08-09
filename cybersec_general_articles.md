@@ -65,6 +65,7 @@
 		<li><a href="http://www.pewinternet.org/2019/01/16/facebook-algorithms-and-personal-data/">[01/2019 * FACEBOOK] Pew Research Center, Facebook Algorithms and Personal Data.</a></li>
 		<li><a href="https://www.ibtimes.co.in/worlds-first-standalone-quantum-computer-ibm-q-system-one-ces-2019-key-facts-design-photos-789572">[01/2019 * QUANTUM] IBTimes, IBM's Quantum computer first in the world to leave research labs: Unbelievable Facts.</a></li>
 		<li><a href="https://www.zdnet.com/article/explosion-in-digital-evidence-coming-thanks-to-iot-and-5g-hancom-gmd/">[01/2019 * FORENSICS] ZDNet, Hancom GMD, Explosion in digital evidence coming thanks to IoT and 5G.</a></li>
+		<li><a href="https://taosecurity.blogspot.com/2018/12/managing-burnout.html">[12/2018 * TAO] Managing Burnout.</a></li>
 		<li><a href="http://europa.eu/rapid/press-release_IP-18-6759_en.htm">[12/2018 * EU] European Commission: EU negotiators agree on strengthening Europe's cybersecurity.</a></li>
 		<li><a href="https://www.tijd.be/ondernemen/technologie/belgie-voert-onderzoek-naar-chinese-huawei/10076671.html">[12/2018 * HUAWEI] De Tijd, België voert onderzoek naar Chinese Huawei.</a></li>
 		<li><a href="https://www.zdnet.com/article/aclu-wants-court-to-release-documents-on-the-us-attempt-at-backdooring-facebook-messenger/">[12/2018 * FBI] ZDNet: ACLU wants court to release documents on the US'attempt at backdooring Facebook Messenger.</a></li>
