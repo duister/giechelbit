@@ -120,9 +120,10 @@
 		<li><a href="https://www.darkreading.com">NEWS: Dark Reading.</a></li>
 		<li><a href="https://haveibeenpwned.com">NEWS: Have I been Pwned.</a></li>
 		<li><a href="https://azure.microsoft.com/en-us/blog/">NEWS: Azure Blogs.</a></li>
-<li><a href="https://www.recordedfuture.com/blog/">BLOG: Recorded Future blog.</a></li>
-<li><a href="https://www.troyhunt.com/">BLOG: Troy Hunt.</a></li>
-<li><a href="https://blog.trendmicro.com/trendlabs-security-intelligence/">BLOG: Trend Micro, Security Intelligence Blog.</a></li>
+		<li><a href="https://www.recordedfuture.com/blog/">BLOG: Recorded Future blog.</a></li>
+		<li><a href="https://www.troyhunt.com/">BLOG: Troy Hunt.</a></li>
+		<li><a href="https://blog.trendmicro.com/trendlabs-security-intelligence/">BLOG: Trend Micro, Security Intelligence Blog.</a></li>
+		<li><a href="https://taosecurity.blogspot.com">BLOG: TAO Security.</a></li>
 
 	</ul>
 
