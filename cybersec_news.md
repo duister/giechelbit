@@ -11,11 +11,14 @@
 ..::::..::........:::...::...::::......:::
 </pre>
 <ol reversed>
+<li><a href="https://www.bitdefender.com/blog/hotforsecurity/lithuania-warns-firms-not-to-use-xiaomi-and-huawei-smartphones-after-investigation-finds-security-and-censorship-concerns/">[02/2022 * MOBILE] BitDefender, Lithouania warns firms not to use Xiamo and Huawei smartphones aftr investigation finds security and censorship concerns.</a></li>
+<li><a href="https://www.msn.com/nl-be/financien/nieuws/staatsveiligheid-bevestigt-chinese-smartphones-vormen-spionagerisico/ar-AATOUoe">[02/2022 * MOBILE] MSN, Staatsveiligheid bevestigt: Chinese smartphones vormen spionagerisico.</a></li>
 <li><a href="https://www.lesoir.be/423933/article/2022-02-14/les-smartphones-chinois-presentent-un-risque-despionnage-selon-la-belgique">[02/2022 * MOBILE] Le Soir, Les smartphones Chinois présentent "un risque d'espionnage" selon la Belgique.</a></li>
 <li><a href="https://www.washingtonpost.com/national-security/2022/02/15/russia-ukraine-cyber-attacks/">[02/2022 * BREACH] Washington Post, Russian government hackers have likely penetrated critical Ukrainian computer systems US says.</a></li>
 <li><a href="https://www.tijd.be/dossier/europareeks/europa-plant-eigen-beveiligd-internet-via-de-ruimte/10367102.html">[02/2022 * QUANTUM] De Tijd, Europa plant eigen beveiligd internet via de ruimte.</a></li>
 <li><a href="https://proximus.csod.com/ui/internal-career-site/app/job-details/7825">[11/2021 * SPY] Tweakers, VS zet NSO Group op zwarte lijst wegens "kwaadaardige cyberactiviteiten".</a></li>
 <li><a href="https://www.businesswire.com/news/home/20210125005006/en/NATO-Selects-Thales-to-Supply-Its-First-Defence-Cloud-for-the-Armed-Forces">[02/2021 *  CLOUD] Business wire, NATO selects Thales to supply its first "Defence Cloud" for the armed forces.<a></li>
+<li><a href="https://tweakers.net/nieuws/185140/belgische-staatsveiligheid-waarschuwt-voor-chinese-smartphones.html">[08/2021 * MOBILE] Tweakers, Belgische Staatsveiligheid waarschuwt voro Chinese smartphones.</a></li>
 <li><a href="https://www.demorgen.be/tech-wetenschap/via-fod-financien-kon-het-rijksregisternummer-van-iedereen-worden-gevonden~b6c7ed3b/">[01/2021 * PRIVACY] De Morgen, via FOD Financiën kon het rijksregisternummer van iedereen worden gevonden.</a></li>
 <li><a href="https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html">[12/2020 * BREACH] FireEye, unauthorized access of FireEye Red Team Tools.</a></li>
 <li><a href="https://github.com/fireeye/red_team_tool_countermeasures">[12/2020 * BREACH] Fireeye Red Team Tool Countermeasures.<a></li>
