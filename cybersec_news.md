@@ -11,6 +11,7 @@
 ..::::..::........:::...::...::::......:::
 </pre>
 <ol reversed>
+<li><a href="https://datanews.levif.be/ict/actualite/pour-proximus-il-n-y-a-aucune-preuve-de-risque-securitaire-de-la-part-des-smartphones-chinois/article-news-1525971.html?cookie_check=1645092012">[02/2022 * MOBILE] Le Vif, Pour Proximus, il n'y a aucune preuve de risque sécuritaire de la part des smartphones Chinois.</a></li>
 <li><a href="https://www.bitdefender.com/blog/hotforsecurity/lithuania-warns-firms-not-to-use-xiaomi-and-huawei-smartphones-after-investigation-finds-security-and-censorship-concerns/">[02/2022 * MOBILE] BitDefender, Lithouania warns firms not to use Xiamo and Huawei smartphones aftr investigation finds security and censorship concerns.</a></li>
 <li><a href="https://www.msn.com/nl-be/financien/nieuws/staatsveiligheid-bevestigt-chinese-smartphones-vormen-spionagerisico/ar-AATOUoe">[02/2022 * MOBILE] MSN, Staatsveiligheid bevestigt: Chinese smartphones vormen spionagerisico.</a></li>
 <li><a href="https://www.lesoir.be/423933/article/2022-02-14/les-smartphones-chinois-presentent-un-risque-despionnage-selon-la-belgique">[02/2022 * MOBILE] Le Soir, Les smartphones Chinois présentent "un risque d'espionnage" selon la Belgique.</a></li>
